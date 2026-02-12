@@ -6,3 +6,6 @@ def home(request):
 
 def about(request):
     return HttpResponse("Курс Web структуры")
+
+def test(request):
+    return HttpResponse("тест")
