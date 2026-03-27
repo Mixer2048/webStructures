@@ -1,0 +1,9 @@
+venv\Scripts\activate
+python manage.py runserver
+
+django admin: (login: admin; password: 123)
+
+
+В 4-й лабе, когда через shell создал пустой ассет, сервер не открывался. Как я понял, не мог размер файла ассета понять.
+
+Остановился на неделя 8 практика 1 шаг 1.
